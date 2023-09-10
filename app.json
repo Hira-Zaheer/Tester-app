@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Tester",
-    "slug": "Tester",
+    "slug": "jobverse",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2081e3ba-94ad-4c76-8e7d-331cc15cf541"
+      }
+    },
+    "owner": "hiraapp"
   }
 }
