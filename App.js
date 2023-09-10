@@ -8,7 +8,7 @@ const App = () => {
     {/* <Image style={{width:300,height:300}} source={require('./assets/adaptive-icon.png')}/>
     <Image source={{uri: 'https://picsum.photos/200'}} style={{width:300,height:300}}/> */}
     <ImageBackground source={img} style={{flex:1}}>
-   <Text>Wajiha</Text>
+   <Text>Whira</Text>
     </ImageBackground>
     </View>
   )
